@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @cmh06
+- 👀 I’m interested in machine learning, cryptography, mathematics
+- 🌱 I’m currently learning python
+- 📫 How to reach me joshm.jnc@gmail.com
